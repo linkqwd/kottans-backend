@@ -1,7 +1,7 @@
 ## Navigation
 
 - [Unix shell](#unix-shell)
-- [Git Collaboration](#github-collaboration)
+- [Git Collaboration](#git-collaboration)
 
 ___
 
